@@ -20,6 +20,9 @@ Get ready to crush some candies and set record-breaking scores! 🏆
 
 # 🛠️ Installation:
 
-i- Clone this repository.
-ii- Run npm install to install dependencies.
-iv- Start the game with npm start.
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
