@@ -20,6 +20,6 @@ Get ready to crush some candies and set record-breaking scores! 🏆
 
 # 🛠️ Installation:
 
-1- Clone this repository.
-2- Run npm install to install dependencies.
-3- Start the game with npm start.
+i- Clone this repository.
+ii- Run npm install to install dependencies.
+iv- Start the game with npm start.
